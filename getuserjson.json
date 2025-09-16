@@ -1,0 +1,50 @@
+[
+    {
+        "itemName": "string",
+        "quantity": 0,
+        "date": "08/09/2025",
+        "itemBrand": "Bourban,Oreo",
+        "employeeid": 10111,
+        "consumedPersonName": "Vijay"
+    },
+    {
+        "itemName": "string1",
+        "quantity": 0,
+        "date": "08/09/2025",
+        "itemBrand": "Bourban,Oreo",
+        "employeeid": 10111,
+        "consumedPersonName": "Vijay"
+    },
+    {
+        "itemName": "Lays",
+        "quantity": 3,
+        "date": "15/09/2025",
+        "itemBrand": "Green Colour",
+        "employeeid": 10115,
+        "consumedPersonName": "Adarsh Vishwakarma"
+    },
+    {
+        "itemName": "Bistook",
+        "quantity": 8,
+        "date": "08/09/2025",
+        "itemBrand": "oreo",
+        "employeeid": 10111,
+        "consumedPersonName": "Vijay"
+    },
+    {
+        "itemName": "biscuit",
+        "quantity": 10,
+        "date": "08/09/2025",
+        "itemBrand": "Patanjali",
+        "employeeid": 10111,
+        "consumedPersonName": "Vijay"
+    },
+    {
+        "itemName": "burger",
+        "quantity": 3,
+        "date": "16/09/2025",
+        "itemBrand": "fast food",
+        "employeeid": 10111,
+        "consumedPersonName": "Paras"
+    }
+]

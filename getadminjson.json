@@ -30,5 +30,13 @@
         "itemBrand": "fast food",
         "cost": 260.0,
         "boughtPersonName": "Vandana"
+    },
+    {
+        "itemName": "aeroplane",
+        "totalQuantity": 60,
+        "date": "18/08/2025",
+        "itemBrand": "Indigo",
+        "cost": 500.0,
+        "boughtPersonName": "Paras Kamboj"
     }
 ]
